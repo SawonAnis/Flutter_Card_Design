@@ -1,0 +1,21 @@
+name: mi_card
+description: A Flutter project.
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - images/sawon.jpg
+
+  fonts:
+    - family: UnifrakturMaguntia
+      fonts:
+        - asset: fonts/UnifrakturMaguntia-Regular.ttf
